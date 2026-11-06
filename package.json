@@ -1,0 +1,1 @@
+{"name":"epm-lan","version":"1.0.0","description":"EPM - Engineering Project Manager for your local network","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"},"license":"UNLICENSED"}
